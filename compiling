@@ -1,0 +1,1 @@
+gcc -Wall -o main main.c L1/mmemory.c L2/MyTerm.c L3/bigChar.c L4/readKey.c alu.c print.c
